@@ -1,0 +1,5 @@
+package com.store.book.service;
+
+public interface BookService {
+
+}

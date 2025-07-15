@@ -1,0 +1,5 @@
+package com.store.book.entity;
+
+public class Book {
+
+}
