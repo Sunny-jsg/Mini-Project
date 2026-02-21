@@ -10,8 +10,8 @@ import in.ashokit.response.binding.Ticket;
 
 @Service
 public class MakeMyTripServiceImpl implements MakeMyTripService {
-	private String BOOK_TICKET_URL = "http://13.203.204.27:8080/ticket";
-	private String GET_TICKET_URL = "http://13.203.204.27:8080/ticket/{ticketNum}";
+	private String BOOK_TICKET_URL = "http://13.204.45.101:8080/ticket";
+	private String GET_TICKET_URL = "http://13.204.45.101:8080/ticket/{ticketNum}";
 
 	@Override
 	public Ticket bookTicket(Passenger passenger) {
