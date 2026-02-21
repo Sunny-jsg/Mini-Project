@@ -51,4 +51,8 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="in.ait.entity.Expense"/>
+    <fullyQualifiedTypeName name="com.store.book.restcontroller.BookController"/>
+    <fullyQualifiedTypeName name="com.employee.mgmt.controller.EmployeeController"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
 </qualifiedTypeNameHistroy>

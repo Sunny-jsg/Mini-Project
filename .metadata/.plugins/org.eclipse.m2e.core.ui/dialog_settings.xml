@@ -63,10 +63,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="Online_Train_icket_Booking_System"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Online_Train_Ticket_Booking_System"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
